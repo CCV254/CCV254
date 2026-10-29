@@ -8,7 +8,7 @@ Based in Johannesburg, South Africa. I combine hands-on software and data projec
 
 ## Featured work
 
-### [PukParking — Smart Campus Parking Navigator](https://pukparking.netlify.app/home) · 2026
+### [PukParking - Smart Campus Parking Navigator](https://pukparking.netlify.app/home) · 2026
 
 A full-stack NWU Potchefstroom campus parking application supporting parking recommendations, interactive navigation and campus parking management.
 
@@ -18,7 +18,7 @@ A full-stack NWU Potchefstroom campus parking application supporting parking rec
 
 [View live application](https://pukparking.netlify.app/home) · [Group repository](https://github.com/PukParking/PukParking)
 
-### Uber/Bolt South Africa — Mobility Intelligence · 2026
+### Uber/Bolt South Africa - Mobility Intelligence · 2026
 
 Collaborative relational database and analytical report covering **50,000 South African ride-hailing trip records**. Investigated cancellation behaviour across platforms and cities, surge pricing, ride categories and request times; the report recorded **16,669 cancellations (33.34%)**.
 
@@ -63,29 +63,29 @@ Configured an Ubuntu virtual machine in Oracle VirtualBox, Guest Additions and s
 
 ## Education & academic achievements
 
-**Bachelor of Science in Information Technology** — North-West University (final year; expected 2026)  
-- Last recorded results: **328 of 392 credits**, **78.70% cumulative average**, **22 distinctions** across 2024–2026; 2026 average **82.82%**.
+**Bachelor of Science in Information Technology** - North-West University (final year; expected 2026)  
+- Last recorded results: **328 of 392 credits**, **78.70% cumulative average**, **22 distinctions** across 2024-2026; 2026 average **82.82%**.
 - Coursework includes Advanced Databases, Artificial Intelligence, Decision Support Systems, Computer Networks, Operating Systems, Information Security, Systems Analysis and Design, and Programming.
 
-**Bachelor of Education (Mathematics and Physics)** — University of the Witwatersrand (2018).
+**Bachelor of Education (Mathematics and Physics)** - University of the Witwatersrand (2018).
 
 ## Professional experience & leadership
 
-**Mathematics Educator — Rembrandt Park Primary School (2019–present)**  
+**Mathematics Educator - Rembrandt Park Primary School (2019-present)**  
 - Maintained a **100% Mathematics pass rate**, with class averages above **70%**.
 - Integrated technology and coding/robotics activities into education.
 - Supported assessment, stakeholder communication, team leadership and school sporting activities.
 
-**District Area Manager — Johannesburg Primary Schools Football Association (JPSFA)**  
+**District Area Manager - Johannesburg Primary Schools Football Association (JPSFA)**  
 Coordinated youth football activities, fixtures and communication.
 
 ## Certifications & ongoing learning
 
-- **Introduction to Cloud Security** — Simplilearn SkillUp (May 2025).
-- **Introduction to Cyber Security** — Simplilearn SkillUp (May 2025).
+- **Introduction to Cloud Security** - Simplilearn SkillUp (May 2025).
+- **Introduction to Cyber Security** - Simplilearn SkillUp (May 2025).
 - Cubroid Coding and Robotics (2024).
 - Project-Based Learning (2025), Positive Behaviour Management (2024).
-- 120-Hour TEFL — University of the Witwatersrand (2020).
+- 120-Hour TEFL - University of the Witwatersrand (2020).
 - SAFA Level 2 Referee (2025); JPSFA Coaching (2023).
 
 ## Career direction
