@@ -24,8 +24,6 @@ Collaborative relational database and analytical report covering **50,000 South 
 
 **Techniques:** Oracle SQL, relational data modelling, analytical queries, data interpretation, business reporting and Power BI visual analysis.
 
-*The Power BI figures included in the group report were supplied; my contribution involved interpreting and reporting insights from those visuals, rather than claiming dashboard authorship.*
-
 ### MPBC Bicycle Inventory Optimisation · 2026
 
 Applied Excel and Excel QM inventory models to estimate economic order quantity (approximately **68 bicycles**), safety stock (**38**) and reorder point (**72**) for stock-management decisions.
